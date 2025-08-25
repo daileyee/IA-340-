@@ -1,5 +1,4 @@
 # IA 340 Code 
-![image]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FJames_Madison_Dukes_men%2527s_basketball&psig=AOvVaw0Aqm0a0SQpYss0wdcgDOAe&ust=1756238187078000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCJiJ_5zfpo8DFQAAAAAdAAAAABAE](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/James_Madison_University_Athletics_logo.svg/1200px-James_Madison_University_Athletics_logo.svg.png))
 
 This is my [IA 340](https://catalog.jmu.edu/preview_course_nopop.php?catoid=50&coid=258336) course code. 
 
