@@ -19,6 +19,6 @@ This is my [IA 340](https://catalog.jmu.edu/preview_course_nopop.php?catoid=50&c
 
 ## Contact Information
 
-Name: Emma Dailey
-Email: daileyee@dukes.jmu.edu 
-Major: [Intelligence Analysis](https://www.jmu.edu/academics/undergraduate/majors/intelligence-analysis.shtml)
+### **Name:** Emma Dailey
+### **Email:** daileyee@dukes.jmu.edu 
+### **Major:** [Intelligence Analysis](https://www.jmu.edu/academics/undergraduate/majors/intelligence-analysis.shtml)
