@@ -10,7 +10,7 @@ This is my [IA 340](https://catalog.jmu.edu/preview_course_nopop.php?catoid=50&c
   
 ## Content 
 
-1. Lab1
+1. [Lab1](https://github.com/daileyee/IA-340-/blob/main/Lab1.ipynb)
 2. Lab2
 3. Lab3
 
